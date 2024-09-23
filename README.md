@@ -15,15 +15,23 @@ Check out the live version here: [Live Demo](https://66f13cfb3e2f92c56f949309--f
 - Lottie animations
 
 ## Installation
-1. Clone the repository
-```bash
+
+1. Clone the repository:
+
+    ```bash
     git clone https://github.com/RajMogare/Printify-Home-Page
     cd Printify-Home-Page
+    ```
 
-2. Install dependencies
-```bash
-  npm install
+2. Install dependencies:
 
-3. Run the project
-  ```bash
-  npm run dev
+    ```bash
+    npm install
+    ```
+
+3. Run the project:
+
+    ```bash
+    npm run dev
+    ```
+
